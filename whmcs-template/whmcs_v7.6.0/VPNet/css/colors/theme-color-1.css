@@ -1,0 +1,98 @@
+/*========================================================
+
+[Theme Color Stylesheet]
+
+Project     : VPNet
+Version     : 1.0
+Author      : ThemeLooks
+Author URI  : https://themeforest.net/user/themelooks
+
+========================================================*/
+
+/* Only for WHMCS */
+.ColorSwitcher__control,
+.landing-page.mail-services .product-options .icon,
+.landing-page.mail-services .product-options .price,
+.landing-page.mail-services .benefits i,
+.landing-page.ssl .what-is-ssl .fa,
+.landing-page.ssl .ssl-benefits i {
+	color: #7cd273 !important;
+}
+
+#order-cloud_slider .price-calc-top .order-btn, 
+#order-cloud_slider .price-calc-top .order-btn:hover,
+#order-cloud_slider .price-calc-btm .progress.small-progress .progress-bar,
+#order-standard_cart .panel-addon .panel-add,
+.landing-page.mail-services .product-options .btn-buy,
+.landing-page.ssl .validation-levels,
+.landing-page.ssl .competitive-upgrade-promo,
+.landing-page.ssl .detailed-info .panel-heading {
+	background: #7cd273 !important;
+}
+
+ul.top-nav>li.primary-action>a.btn,
+section#home-banner .btn.search,
+.label-warning[href]:focus, .label-warning[href],
+.panel-sidebar a.list-group-item.active, 
+.panel-sidebar a.list-group-item.active:focus, 
+.panel-sidebar a.list-group-item.active:hover,
+.btn-success,
+.btn-primary, .btn-primary:focus, 
+.btn-primary.focus, 
+.btn-primary.disabled, 
+.btn-primary:disabled, 
+.btn-primary:not(:disabled):not(.disabled):active, 
+.btn-primary:not(:disabled):not(.disabled).active, 
+.show > .btn-primary.dropdown-toggle, 
+.btn-primary:not(:disabled):not(.disabled):active:focus, 
+.btn-primary:not(:disabled):not(.disabled).active:focus, 
+.show > .btn-primary.dropdown-toggle:focus,
+.promo-banner.symantec-ssl .btn,
+.label-info,
+.btn-info,
+.dataTables_wrapper .dataTables_info {
+    background-color: #7cd273;
+}
+
+ul.top-nav>li.primary-action>a.btn:hover,
+section#home-banner .btn.search:hover,
+.label-warning[href]:focus, .label-warning[href]:hover,
+.btn-success:hover,
+.btn-success.focus, 
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus,
+.btn-primary:hover,
+.promo-banner.symantec-ssl .btn:hover,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:active:focus,
+.btn-info:focus,
+.landing-page .get-started .btn-order-now {
+	background-color: #7cd273 !important;
+}
+
+.panel-sidebar a.list-group-item.active, 
+.panel-sidebar a.list-group-item.active:focus, 
+.panel-sidebar a.list-group-item.active:hover,
+.btn-success,
+.btn-info,
+.dataTables_wrapper table.table-list thead th,
+.landing-page .nav-tabs > li.active > a, 
+.landing-page .nav-tabs > li.active > a:focus, 
+.landing-page .nav-tabs > li.active > a:hover {
+    border-color: #7cd273 !important;
+}
+
+.btn-success:hover,
+.btn-success.focus, 
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus,
+.btn-info:hover,
+.btn-info:active:focus,
+.btn-info:active,
+.btn-info:focus,
+.dataTables_wrapper table.table-list thead th:nth-child(even) {
+    border-color: #7cd273;
+}

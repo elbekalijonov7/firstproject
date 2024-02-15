@@ -1,0 +1,202 @@
+/*========================================================
+
+[Theme Color Stylesheet]
+
+Project     : VPNet
+Version     : 1.0
+Author      : ThemeLooks
+Author URI  : https://themeforest.net/user/themelooks
+
+========================================================*/
+
+/* Main Color */
+.ColorSwitcher__control,
+a,
+.header-menu > ul > li:hover > a, 
+.header-menu > ul > li.active > a,
+.header-menu ul ul li:hover > a, 
+.header-menu ul ul li > a:hover, 
+.header-menu ul ul li.active > a,
+.client-area .dropdown a:hover,
+.banner-content li:last-child a:hover,
+.list-item li svg,
+.single-pricing-plan .time,
+.single-review-slide h4 svg,
+.image-hover-content ul li a,
+.single-step h4 span,
+.not-found span,
+.page-title span svg,
+.single-widget button[type=submit],
+.widget-categories a:hover,
+.recent-posts li a:hover,
+.tags a:hover,
+.custom-pagination .active a, .custom-pagination a:hover,
+.post-content span a:hover,
+.author-info a:hover,
+.author-info a:hover,
+.prev-next a:hover,
+.single-post a:hover,
+.single-faq-wrap h4 svg,
+.single-query:hover .query-info a,
+.header-menu #menu-button {
+    color: #ea9926;
+}
+
+.replaced-svg path,
+.single-query:hover .query-icon svg path {
+    fill: #ea9926 !important;
+}
+
+/* Background main color */
+.preLoader,
+.btn-primary,
+.btn-primary:focus, 
+.btn-primary.focus,
+.btn-primary.disabled, 
+.btn-primary:disabled,
+.btn-primary:not(:disabled):not(.disabled):active, 
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle,
+.btn-primary:not(:disabled):not(.disabled):active:focus, 
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus,
+.btn-primary:hover,
+.btn-secondary,
+.btn-secondary:focus, 
+.btn-secondary.focus,
+.btn-secondary.disabled,
+.btn-secondary:disabled,
+.btn-secondary:not(:disabled):not(.disabled):active, 
+.btn-secondary:not(:disabled):not(.disabled).active,
+.show > .btn-secondary.dropdown-toggle,
+.btn-secondary:not(:disabled):not(.disabled):active:focus, 
+.btn-secondary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-secondary.dropdown-toggle:focus,
+.btn-secondary:hover,
+.header-menu > ul > li > a:after, 
+.header-menu > ul > li.active > a:after, 
+.header-menu > ul > li:hover > a:after,
+.swiper-pagination-bullet-active,
+.back-to-top a,
+.image-hover-content:before,
+.play-btn,
+.post-content blockquote span {
+    background-color: #ea9926;
+}
+
+.header-menu ul ul,
+.banner-content h2,
+.single-member-info span,
+.ripple:before, .ripple:after,
+.form-control:focus,
+.widget-categories li:hover:before,
+.client-links {
+    border-color: #ea9926;
+}
+.preLoader:before {
+    border-bottom-color: #ea9926;
+}
+
+/* Light color */
+a:hover,
+.header-info li span,
+.social-icons a:hover {
+    color: #ea9926;
+}
+
+.swiper-slide-active .single-pricing-plan .btn,
+.back-to-top a:hover {
+    background-color: #ea9926;
+}
+
+.swiper-slide-active .single-pricing-plan svg path {
+    fill: #ea9926 !important;
+}
+
+/* Only for WHMCS */
+.ColorSwitcher__control,
+.landing-page.mail-services .product-options .icon,
+.landing-page.mail-services .product-options .price,
+.landing-page.mail-services .benefits i,
+.landing-page.ssl .what-is-ssl .fa,
+.landing-page.ssl .ssl-benefits i {
+	color: #ea9926 !important;
+}
+
+#order-cloud_slider .price-calc-top .order-btn, 
+#order-cloud_slider .price-calc-top .order-btn:hover,
+#order-cloud_slider .price-calc-btm .progress.small-progress .progress-bar,
+#order-standard_cart .panel-addon .panel-add,
+.landing-page.mail-services .product-options .btn-buy,
+.landing-page.ssl .validation-levels,
+.landing-page.ssl .competitive-upgrade-promo,
+.landing-page.ssl .detailed-info .panel-heading {
+	background: #ea9926 !important;
+}
+
+ul.top-nav>li.primary-action>a.btn,
+section#home-banner .btn.search,
+.label-warning[href]:focus, .label-warning[href],
+.panel-sidebar a.list-group-item.active, 
+.panel-sidebar a.list-group-item.active:focus, 
+.panel-sidebar a.list-group-item.active:hover,
+.btn-success,
+.btn-primary, .btn-primary:focus, 
+.btn-primary.focus, 
+.btn-primary.disabled, 
+.btn-primary:disabled, 
+.btn-primary:not(:disabled):not(.disabled):active, 
+.btn-primary:not(:disabled):not(.disabled).active, 
+.show > .btn-primary.dropdown-toggle, 
+.btn-primary:not(:disabled):not(.disabled):active:focus, 
+.btn-primary:not(:disabled):not(.disabled).active:focus, 
+.show > .btn-primary.dropdown-toggle:focus,
+.promo-banner.symantec-ssl .btn,
+.label-info,
+.btn-info,
+.dataTables_wrapper .dataTables_info {
+    background-color: #ea9926;
+}
+
+ul.top-nav>li.primary-action>a.btn:hover,
+section#home-banner .btn.search:hover,
+.label-warning[href]:focus, .label-warning[href]:hover,
+.btn-success:hover,
+.btn-success.focus, 
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus,
+.btn-primary:hover,
+.promo-banner.symantec-ssl .btn:hover,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:active:focus,
+.btn-info:focus,
+.landing-page .get-started .btn-order-now {
+	background-color: #ea9926 !important;
+}
+
+.panel-sidebar a.list-group-item.active, 
+.panel-sidebar a.list-group-item.active:focus, 
+.panel-sidebar a.list-group-item.active:hover,
+.btn-success,
+.btn-info,
+.dataTables_wrapper table.table-list thead th,
+.landing-page .nav-tabs > li.active > a, 
+.landing-page .nav-tabs > li.active > a:focus, 
+.landing-page .nav-tabs > li.active > a:hover {
+    border-color: #ea9926 !important;
+}
+
+.btn-success:hover,
+.btn-success.focus, 
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus,
+.btn-info:hover,
+.btn-info:active:focus,
+.btn-info:active,
+.btn-info:focus,
+.dataTables_wrapper table.table-list thead th:nth-child(even) {
+    border-color: #ea9926;
+}
